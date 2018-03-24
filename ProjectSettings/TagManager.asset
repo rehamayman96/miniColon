@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - basket
+  - orange
+  - blackberry
+  - coconut
+  - tree
+  - chest
+  - border
+  - collider
+  - basket_img
+  - coconut_img
+  - orange_img
+  - blackberry_img
+  - bubble_box
+  - code_snippet
+  - coconut2
+  - coconut_img2
+  - blackberry_img2
+  - blackberry2
+  - code_snippet2
+  - code_snippet3
+  - character
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

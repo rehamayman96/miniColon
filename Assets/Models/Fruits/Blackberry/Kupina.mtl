@@ -1,0 +1,26 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Color_I16
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.400000
+Ks 0.330000 0.330000 0.330000
+
+newmtl Blackberry_Fruit_PNG_image
+Ka 0.000000 0.000000 0.000000
+Kd 0.207843 0.192157 0.211765
+Ks 0.330000 0.330000 0.330000
+map_Kd Kupina/Blackberry_Fruit_PNG_image.png
+
+newmtl green_leaves_PNG3648
+Ka 0.000000 0.000000 0.000000
+Kd 0.752941 0.827451 0.658824
+Ks 0.330000 0.330000 0.330000
+map_Kd Kupina/green_leaves_PNG3648.png
+
+newmtl ForegroundColor
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.330000 0.330000 0.330000
+

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniColon.Plugins", "miniColon.Plugins.csproj", "{F775B247-9FB1-81F6-31EB-FB66C4933E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniColon", "miniColon.csproj", "{26D28249-336C-3AD9-28CD-E964ABED8654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "miniColon.Editor.Plugins", "miniColon.Editor.Plugins.csproj", "{24EA1CFA-368D-AEAE-B951-DD3A02757265}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F775B247-9FB1-81F6-31EB-FB66C4933E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F775B247-9FB1-81F6-31EB-FB66C4933E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F775B247-9FB1-81F6-31EB-FB66C4933E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F775B247-9FB1-81F6-31EB-FB66C4933E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26D28249-336C-3AD9-28CD-E964ABED8654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D28249-336C-3AD9-28CD-E964ABED8654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D28249-336C-3AD9-28CD-E964ABED8654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D28249-336C-3AD9-28CD-E964ABED8654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EA1CFA-368D-AEAE-B951-DD3A02757265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EA1CFA-368D-AEAE-B951-DD3A02757265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EA1CFA-368D-AEAE-B951-DD3A02757265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EA1CFA-368D-AEAE-B951-DD3A02757265}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
