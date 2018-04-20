@@ -294,15 +294,18 @@
     <Compile Include="Assets\Island\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Island\Scripts\WaterScroller.cs" />
     <Compile Include="Assets\Scripts\AudioDest.cs" />
-    <Compile Include="Assets\Scripts\KinectScripts\GestureDetector.cs" />
-    <Compile Include="Assets\Scripts\KinectScripts\KinectManager.cs" />
-    <Compile Include="Assets\Scripts\KinectScripts\QuizKinectManager.cs" />
-    <Compile Include="Assets\Scripts\KinectScripts\RunGestureDetector.cs" />
-    <Compile Include="Assets\Scripts\PickUp.cs" />
-    <Compile Include="Assets\Scripts\PickUp2.cs" />
-    <Compile Include="Assets\Scripts\Sequence_Quiz.cs" />
-    <Compile Include="Assets\Scripts\TransformFollower.cs" />
-    <Compile Include="Assets\Scripts\Turning.cs" />
+    <Compile Include="Assets\Scripts\ChestAnimition.cs" />
+    <Compile Include="Assets\Scripts\Controllers\PickUp.cs" />
+    <Compile Include="Assets\Scripts\Controllers\PickUp2.cs" />
+    <Compile Include="Assets\Scripts\Controllers\PickUp3.cs" />
+    <Compile Include="Assets\Scripts\Controllers\PickUp4.cs" />
+    <Compile Include="Assets\Scripts\Controllers\PickUp5.cs" />
+    <Compile Include="Assets\Scripts\Controllers\PickUp6.cs" />
+    <Compile Include="Assets\Scripts\Controllers\Turning.cs" />
+    <Compile Include="Assets\Scripts\Controllers\Tutorial.cs" />
+    <Compile Include="Assets\Scripts\FloatingObjects.cs" />
+    <Compile Include="Assets\Scripts\QuizScenes.cs" />
+    <Compile Include="Assets\Scripts\VideoScenes.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Fonts\Documentation\JazzCreateAltKeys_BubbleFont.txt" />

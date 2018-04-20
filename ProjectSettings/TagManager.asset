@@ -25,6 +25,29 @@ TagManager:
   - code_snippet2
   - code_snippet3
   - character
+  - backpack
+  - rope
+  - mobile
+  - flashlight
+  - red
+  - black
+  - brown
+  - brown_img
+  - red_img
+  - black_img
+  - brown_top
+  - black_top
+  - red_top
+  - reed
+  - broown
+  - rod
+  - coconut_count
+  - blackberry_count
+  - c1
+  - c2
+  - c3
+  - b1
+  - b2
   layers:
   - Default
   - TransparentFX
