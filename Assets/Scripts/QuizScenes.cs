@@ -38,7 +38,8 @@ public class QuizScenes: MonoBehaviour {
         switch (level)
         {
             case 3:level_name = "Level_3"; break;
-            
+            case 5:level_name = "Level_5"; break;
+
         }
     }
 

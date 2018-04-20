@@ -4741,8 +4741,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0e9eef00493029d4eb6d3c3a385671a3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickup: 0
-  win: 0
 --- !u!82 &1550295776
 AudioSource:
   m_ObjectHideFlags: 0
@@ -5324,7 +5322,7 @@ MonoBehaviour:
     m_LineSpacing: 1.3
   m_Text: "Coconut_Collected = 0\nBlackberry_Collected = 0\nwhile (Coconut_Collected
     < 4):\n\tcollect_Coconut()\n    Coconut_Collected = Coconut_Collected +1\n\nwhile
-    (Blackberry_Collected < 4):\n\tcollect_Coconut()\n    Blackberry_Collected = Blackberry_Collected
+    (Blackberry_Collected < 3):\n\tcollect_Coconut()\n    Blackberry_Collected = Blackberry_Collected
     +1"
 --- !u!222 &1889943755
 CanvasRenderer:
